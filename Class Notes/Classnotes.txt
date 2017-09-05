@@ -1,2 +1,4 @@
 Hello Guys! Welcome to STAT 297 group!
 Integrated Slack to Github! LEts ee if it works!
+
+I would recommend that we meet once a week to discuss whats going on and learn how this works.
