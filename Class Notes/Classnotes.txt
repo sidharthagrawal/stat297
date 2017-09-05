@@ -1,1 +1,2 @@
 Hello Guys! Welcome to STAT 297 group!
+Integrated Slack to Github! LEts ee if it works!
