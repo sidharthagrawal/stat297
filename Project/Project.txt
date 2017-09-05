@@ -1,0 +1,2 @@
+#Any potential ideas what we want to do for our project?
+#We can scrap sites like Twitter or reddit or something and analyze the data.  
